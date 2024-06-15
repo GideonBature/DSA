@@ -17,9 +17,7 @@ const checkMonotonic = function (array) {
 		}
 	}
 
-	if (nonIncreasing && nonDecreasing) {
-		return false;
-	} else {
-		return true;
-	}
+	if (nonIncreasing && nonDecreasing) return false;
+	
+	return true;
 }
