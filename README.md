@@ -1,73 +1,75 @@
-# 50Days of DSA JavaScript (Data Structure Algorithms) LEETCODE
+# 50 Days of DSA JavaScript (Data Structure Algorithms) LEETCODE
 
-## Day 1: Arrays Data Structures and Algorithms
+## Day-by-Day Breakdown
 
-## Day 2: Recursion
+- Day 1: Arrays Data Structures and Algorithms
 
-## Day 3: Recursion Continued
+- Day 2: Recursion
 
-## Day 4 - 8: Backtracking
+- Day 3: Recursion Continued
 
-## Day 9: Dynamic Programming
+- Day 4 - 8: Backtracking
 
-## Day 10: Dynamic Programming Type - Fibonacci
+- Day 9: Dynamic Programming
 
-## Day 11 - 12: Dynamic Programming Type - Knapsack
+- Day 10: Dynamic Programming Type - Fibonacci
 
-## Day 13: Dynamic Programming Type - LCS (Longest Common Subsequence)
+- Day 11 - 12: Dynamic Programming Type - Knapsack
 
-## Day 14: Dynamic Programming Type - LIS (Longest Increasing Subsequence)
+- Day 13: Dynamic Programming Type - LCS (Longest Common Subsequence)
 
-## Day 15: Dynamic Programming Type - Gap Strategy/Length Wise Iteration
+- Day 14: Dynamic Programming Type - LIS (Longest Increasing Subsequence)
 
-## Day 16 - 17: Dynamic Programming Type - Partition Method
+- Day 15: Dynamic Programming Type - Gap Strategy/Length Wise Iteration
 
-## Day 18: Dynamic Programming Type - Kadane's Algorithm
+- Day 16 - 17: Dynamic Programming Type - Partition Method
 
-## Day 19 - 23: Greedy Algorithms
+- Day 18: Dynamic Programming Type - Kadane's Algorithm
 
-## Day 24: Arrays Data Structures and Algorithms
+- Day 19 - 23: Greedy Algorithms
 
-## Day 25: Dictionaries/Hash Tables Data Structures and Algorithms
+- Day 24: Arrays Data Structures and Algorithms
 
-## Day 26 - 27: Strings Data Structures and Algorithms
+- Day 25: Dictionaries/Hash Tables Data Structures and Algorithms
 
-## Day 28 - 29: Searching Algorithms
+- Day 26 - 27: Strings Data Structures and Algorithms
 
-## Day 30 - 32: Sorting Algorithms
+- Day 28 - 29: Searching Algorithms
 
-## Day 33 - 35: Singly Linked List Data Structures and Algorithms
+- Day 30 - 32: Sorting Algorithms
 
-## Day 36: Doubly Linked List Data Structures and Algorithms
+- Day 33 - 35: Singly Linked List Data Structures and Algorithms
 
-## Day 37: Stacks Data Structures and Algorithms
+- Day 36: Doubly Linked List Data Structures and Algorithms
 
-## Day 38: Queues Data Structures and Algorithms
+- Day 37: Stacks Data Structures and Algorithms
 
-## Day 39: Binary Tree/Binary Search Tree Data Structures and Algorithms
+- Day 38: Queues Data Structures and Algorithms
 
-## Day 40: Binary Tree Traversal (Preorder, Inorder, Postorder - Iteratively)
+- Day 39: Binary Tree/Binary Search Tree Data Structures and Algorithms
 
-## Day 41: Binary Tree
+- Day 40: Binary Tree Traversal (Preorder, Inorder, Postorder - Iteratively)
 
-## Day 42: Binary Trees
+- Day 41: Binary Tree
 
-## Day 43: Binary Tree/Binary Search Tree Data Structures and Algorithms
+- Day 42: Binary Trees
 
-## Day 44: Binary Tree
+- Day 43: Binary Tree/Binary Search Tree Data Structures and Algorithms
 
-## Day 45: Binary Trees
+- Day 44: Binary Tree
 
-## Day 46: Binary Tree Data Structures and Algorithms
+- Day 45: Binary Trees
 
-## Day 47: Binary Search Trees Data Structures and Algorithms
+- Day 46: Binary Tree Data Structures and Algorithms
 
-## Day 48 - 49: Binary Trees
+- Day 47: Binary Search Trees Data Structures and Algorithms
 
-## Day 50: Binary Trees/N-ary Trees
+- Day 48 - 49: Binary Trees
 
-## Day 51: Heaps and Priority Queue Data Structures and Algorithms
+- Day 50: Binary Trees/N-ary Trees
 
-## Day 52 - 53: Graphs Data Structures and Algorithms
+- Day 51: Heaps and Priority Queue Data Structures and Algorithms
 
-## Day 54 - 55: Graphs
+- Day 52 - 53: Graphs Data Structures and Algorithms
+
+- Day 54 - 55: Graphs
